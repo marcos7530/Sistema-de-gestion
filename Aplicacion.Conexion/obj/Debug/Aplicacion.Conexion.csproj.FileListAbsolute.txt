@@ -1,0 +1,106 @@
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll.config
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.pdb
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.dll
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.dll
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.xml
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.xml
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csproj.CoreCompileInputs.cache
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csproj.CopyComplete
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.dll
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.pdb
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csprojAssemblyReference.cache
+D:\Codigo Fuente\X-Commerce\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll.config
+D:\Codigo Fuente\X-Commerce\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll
+D:\Codigo Fuente\X-Commerce\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.pdb
+D:\Codigo Fuente\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.dll
+D:\Codigo Fuente\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.dll
+D:\Codigo Fuente\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.xml
+D:\Codigo Fuente\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.xml
+D:\Codigo Fuente\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csprojAssemblyReference.cache
+D:\Codigo Fuente\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csproj.CoreCompileInputs.cache
+D:\Codigo Fuente\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csproj.CopyComplete
+D:\Codigo Fuente\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.dll
+D:\Codigo Fuente\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Conexion\bin\Debug\EntityFramework.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Conexion\bin\Debug\EntityFramework.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csproj.CopyComplete
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csprojAssemblyReference.cache
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csproj.CopyComplete
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.xml
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csproj.CopyComplete
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.xml
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csproj.CopyComplete
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.pdb
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.pdb
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\EntityFramework.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\EntityFramework.xml
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.xml
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csprojAssemblyReference.cache
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csproj.CoreCompileInputs.cache
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csproj.CopyComplete
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.pdb
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll.config
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.pdb
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\EntityFramework.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\EntityFramework.xml
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.xml
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csprojAssemblyReference.cache
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csproj.CoreCompileInputs.cache
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csproj.CopyComplete
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\Aplicacion.Conexion.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\EntityFramework.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\EntityFramework.xml
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Conexion\bin\Debug\EntityFramework.SqlServer.xml
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csprojAssemblyReference.cache
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csproj.CoreCompileInputs.cache
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.csproj.CopyComplete
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Conexion\obj\Debug\Aplicacion.Conexion.pdb

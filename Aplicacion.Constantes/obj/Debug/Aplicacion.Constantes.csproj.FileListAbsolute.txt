@@ -1,0 +1,85 @@
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll.config
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Constantes\bin\Debug\EntityFramework.dll
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Constantes\bin\Debug\EntityFramework.SqlServer.dll
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Constantes\bin\Debug\EntityFramework.xml
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Constantes\bin\Debug\EntityFramework.SqlServer.xml
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Recursos.resources
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CopyComplete
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+D:\Codigo Fuente\X-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll.config
+D:\Codigo Fuente\X-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+D:\Codigo Fuente\X-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+D:\Codigo Fuente\X-Commerce\Aplicacion.Constantes\bin\Debug\EntityFramework.dll
+D:\Codigo Fuente\X-Commerce\Aplicacion.Constantes\bin\Debug\EntityFramework.SqlServer.dll
+D:\Codigo Fuente\X-Commerce\Aplicacion.Constantes\bin\Debug\EntityFramework.xml
+D:\Codigo Fuente\X-Commerce\Aplicacion.Constantes\bin\Debug\EntityFramework.SqlServer.xml
+D:\Codigo Fuente\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Recursos.resources
+D:\Codigo Fuente\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+D:\Codigo Fuente\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+D:\Codigo Fuente\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CopyComplete
+D:\Codigo Fuente\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+D:\Codigo Fuente\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Constantes\bin\Debug\EntityFramework.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Constantes\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Constantes\bin\Debug\EntityFramework.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Constantes\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Recursos.resources
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CopyComplete
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Constantes\bin\Debug\EntityFramework.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Constantes\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Constantes\bin\Debug\EntityFramework.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Constantes\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Recursos.resources
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CopyComplete
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Constantes\bin\Debug\EntityFramework.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Constantes\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Constantes\bin\Debug\EntityFramework.xml
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Constantes\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Recursos.resources
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CopyComplete
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Constantes\bin\Debug\Aplicacion.Constantes.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Constantes\bin\Debug\EntityFramework.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Constantes\bin\Debug\EntityFramework.SqlServer.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Constantes\bin\Debug\EntityFramework.xml
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Constantes\bin\Debug\EntityFramework.SqlServer.xml
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csprojAssemblyReference.cache
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.Recursos.resources
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.GenerateResource.cache
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CoreCompileInputs.cache
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.csproj.CopyComplete
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Constantes\obj\Debug\Aplicacion.Constantes.pdb

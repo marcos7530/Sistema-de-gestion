@@ -1,0 +1,217 @@
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll.config
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.dll
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.dll
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.SqlServer.dll
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.pdb
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.dll.config
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.xml
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.SqlServer.xml
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Formulario.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioLookUp.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+F:\CodigoFuenteCad\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll.config
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.SqlServer.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.pdb
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.dll.config
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.pdb
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.dll.config
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.xml
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.SqlServer.xml
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Formulario.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioLookUp.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+D:\Codigo Fuente\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\bin\Debug\EntityFramework.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\bin\Debug\EntityFramework.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Formulario.resources
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioLookUp.resources
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Formulario.resources
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioLookUp.resources
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Entidades.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Base.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Entidades.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Entidades.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Base.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Base.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Entidades.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Base.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.xml
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Entidades.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Base.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Base.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Formulario.resources
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioLookUp.resources
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Entidades.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Base.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.xml
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Entidades.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Base.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Base.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Formulario.resources
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioLookUp.resources
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.SqlServer.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Entidades.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Base.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.xml
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\EntityFramework.SqlServer.xml
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Entidades.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Entidades.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Base.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\bin\Debug\Dominio.Base.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Formulario.resources
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioLookUp.resources
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\EntityFramework.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\EntityFramework.SqlServer.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\Dominio.Entidades.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\Dominio.Base.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\Aplicacion.Constantes.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\Servicio.Interfaces.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\EntityFramework.xml
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\EntityFramework.SqlServer.xml
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\Dominio.Entidades.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\Dominio.Entidades.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\Dominio.Base.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\bin\Debug\Dominio.Base.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csprojAssemblyReference.cache
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Formulario.resources
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioAbm.resources
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioConsulta.resources
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.FormularioLookUp.resources
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.Properties.Resources.resources
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.GenerateResource.cache
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CoreCompileInputs.cache
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.csproj.CopyComplete
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Presentacion.FormularioBase\obj\Debug\Presentacion.FormularioBase.pdb

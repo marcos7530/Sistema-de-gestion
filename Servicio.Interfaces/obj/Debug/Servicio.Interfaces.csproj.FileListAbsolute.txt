@@ -1,0 +1,157 @@
+F:\CodigoFuenteCad\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.dll.config
+F:\CodigoFuenteCad\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.dll
+F:\CodigoFuenteCad\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.pdb
+F:\CodigoFuenteCad\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.dll
+F:\CodigoFuenteCad\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+F:\CodigoFuenteCad\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.xml
+F:\CodigoFuenteCad\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+F:\CodigoFuenteCad\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csprojAssemblyReference.cache
+F:\CodigoFuenteCad\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csproj.CoreCompileInputs.cache
+F:\CodigoFuenteCad\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csproj.CopyComplete
+F:\CodigoFuenteCad\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.dll
+F:\CodigoFuenteCad\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.pdb
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.dll.config
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.pdb
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Base.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Entidades.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Base.pdb
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Base.dll.config
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Entidades.pdb
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Entidades.dll.config
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.xml
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.pdb
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.dll.config
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csprojAssemblyReference.cache
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csproj.CoreCompileInputs.cache
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csproj.CopyComplete
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.dll
+D:\Codigo Fuente\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\bin\Debug\Dominio.Base.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\bin\Debug\Dominio.Entidades.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\bin\Debug\EntityFramework.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\bin\Debug\Dominio.Base.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\bin\Debug\Dominio.Base.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\bin\Debug\Dominio.Entidades.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\bin\Debug\Dominio.Entidades.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\bin\Debug\EntityFramework.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csprojAssemblyReference.cache
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csproj.CopyComplete
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Base.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Entidades.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Base.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Base.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Entidades.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Entidades.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csprojAssemblyReference.cache
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csproj.CopyComplete
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Base.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Entidades.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Base.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Base.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Entidades.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csproj.CopyComplete
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Base.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Entidades.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Base.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Base.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Entidades.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.xml
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csproj.CopyComplete
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Base.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Entidades.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Base.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Base.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Entidades.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\Dominio.Entidades.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.xml
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csprojAssemblyReference.cache
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csproj.CoreCompileInputs.cache
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csproj.CopyComplete
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\bin\Debug\Servicio.Interfaces.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\bin\Debug\Dominio.Base.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\bin\Debug\Dominio.Entidades.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\bin\Debug\EntityFramework.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\bin\Debug\EntityFramework.SqlServer.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\bin\Debug\Aplicacion.Constantes.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\bin\Debug\Dominio.Base.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\bin\Debug\Dominio.Base.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\bin\Debug\Dominio.Entidades.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\bin\Debug\Dominio.Entidades.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\bin\Debug\EntityFramework.xml
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\bin\Debug\EntityFramework.SqlServer.xml
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csprojAssemblyReference.cache
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csproj.CoreCompileInputs.cache
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.csproj.CopyComplete
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Servicio.Interfaces\obj\Debug\Servicio.Interfaces.pdb

@@ -1,0 +1,466 @@
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\X-Commerce.exe.config
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\X-Commerce.exe
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\X-Commerce.pdb
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\EntityFramework.dll
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\EntityFramework.SqlServer.dll
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.dll
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.pdb
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll.config
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\EntityFramework.xml
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\EntityFramework.SqlServer.xml
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.pdb
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.dll.config
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csprojAssemblyReference.cache
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Principal.resources
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Properties.Resources.resources
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.GenerateResource.cache
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.CoreCompileInputs.cache
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.CopyComplete
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\obj\Debug\X-Commerce.exe
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\obj\Debug\X-Commerce.pdb
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.dll
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.pdb
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.dll.config
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\Aplicacion.IoC.dll
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\StructureMap.dll
+F:\CodigoFuenteCad\X-Commerce\X-Commerce\bin\Debug\Aplicacion.IoC.pdb
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\X-Commerce.exe.config
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\X-Commerce.exe
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\X-Commerce.pdb
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.dll
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Aplicacion.IoC.dll
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\EntityFramework.dll
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\EntityFramework.SqlServer.dll
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Presentacion.Core.dll
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.dll
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Servicio.Interfaces.dll
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\StructureMap.dll
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Dominio.Base.dll
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Infraestructura.dll
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Dominio.Entidades.dll
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Servicio.Implementacion.dll
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Conexion.dll
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.pdb
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.dll.config
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Aplicacion.IoC.pdb
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Aplicacion.IoC.dll.config
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Presentacion.Core.pdb
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Presentacion.Core.dll.config
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll.config
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.pdb
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.dll.config
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Servicio.Interfaces.pdb
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Servicio.Interfaces.dll.config
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\EntityFramework.xml
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\EntityFramework.SqlServer.xml
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Dominio.Base.pdb
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Dominio.Base.dll.config
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Infraestructura.pdb
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Infraestructura.dll.config
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Dominio.Entidades.pdb
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Dominio.Entidades.dll.config
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Servicio.Implementacion.pdb
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Servicio.Implementacion.dll.config
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Conexion.pdb
+D:\Codigo Fuente\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Conexion.dll.config
+D:\Codigo Fuente\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csprojAssemblyReference.cache
+D:\Codigo Fuente\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Principal.resources
+D:\Codigo Fuente\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Properties.Resources.resources
+D:\Codigo Fuente\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.GenerateResource.cache
+D:\Codigo Fuente\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.CoreCompileInputs.cache
+D:\Codigo Fuente\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.CopyComplete
+D:\Codigo Fuente\X-Commerce\X-Commerce\obj\Debug\X-Commerce.exe
+D:\Codigo Fuente\X-Commerce\X-Commerce\obj\Debug\X-Commerce.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\X-Commerce.exe.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\X-Commerce.exe
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\X-Commerce.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Aplicacion.Constantes.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Aplicacion.IoC.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\EntityFramework.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Presentacion.Core.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Presentacion.Seguridad.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Servicio.Interfaces.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\StructureMap.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Dominio.Base.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Infraestructura.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Dominio.Entidades.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Servicio.Implementacion.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Aplicacion.Conexion.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Aplicacion.Constantes.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Aplicacion.Constantes.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Aplicacion.IoC.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Aplicacion.IoC.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Presentacion.Core.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Presentacion.Core.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Presentacion.FormularioBase.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Presentacion.Seguridad.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Presentacion.Seguridad.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Servicio.Interfaces.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Servicio.Interfaces.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\EntityFramework.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Dominio.Base.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Dominio.Base.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Infraestructura.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Infraestructura.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Dominio.Entidades.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Dominio.Entidades.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Servicio.Implementacion.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Servicio.Implementacion.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Aplicacion.Conexion.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\bin\Debug\Aplicacion.Conexion.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\obj\Debug\X-Commerce.csprojAssemblyReference.cache
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\obj\Debug\X_Commerce.Principal.resources
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\obj\Debug\X_Commerce.Properties.Resources.resources
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\obj\Debug\X-Commerce.csproj.GenerateResource.cache
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\obj\Debug\X-Commerce.csproj.CopyComplete
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\obj\Debug\X-Commerce.exe
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\X-Commerce\obj\Debug\X-Commerce.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\X-Commerce.exe.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\X-Commerce.exe
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\X-Commerce.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Aplicacion.IoC.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\EntityFramework.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\EntityFramework.SqlServer.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Presentacion.Core.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Servicio.Interfaces.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\StructureMap.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Dominio.Base.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Infraestructura.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Dominio.Entidades.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Servicio.Implementacion.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Conexion.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Aplicacion.IoC.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Aplicacion.IoC.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Presentacion.Core.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Presentacion.Core.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Servicio.Interfaces.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Servicio.Interfaces.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\EntityFramework.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\EntityFramework.SqlServer.xml
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Dominio.Base.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Dominio.Base.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Infraestructura.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Infraestructura.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Dominio.Entidades.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Dominio.Entidades.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Servicio.Implementacion.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Servicio.Implementacion.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Conexion.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Conexion.dll.config
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csprojAssemblyReference.cache
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Principal.resources
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Properties.Resources.resources
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.GenerateResource.cache
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.CopyComplete
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\obj\Debug\X-Commerce.exe
+D:\UTN\Parcial Laboratorio2\X-Commerce\X-Commerce\obj\Debug\X-Commerce.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\X-Commerce.exe.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\X-Commerce.exe
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\X-Commerce.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.IoC.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\EntityFramework.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Core.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Interfaces.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\StructureMap.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Base.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Infraestructura.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Entidades.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Implementacion.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Conexion.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.IoC.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.IoC.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Core.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Core.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Interfaces.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Interfaces.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\EntityFramework.xml
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Base.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Base.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Infraestructura.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Infraestructura.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Entidades.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Implementacion.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Implementacion.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Conexion.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Conexion.dll.config
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Principal.resources
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Properties.Resources.resources
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.CopyComplete
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.exe
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\X-Commerce.exe.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\X-Commerce.exe
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\X-Commerce.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.IoC.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\EntityFramework.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Core.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Interfaces.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\StructureMap.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Base.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Infraestructura.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Entidades.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Implementacion.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Conexion.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.IoC.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.IoC.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Core.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Core.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Interfaces.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Interfaces.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\EntityFramework.xml
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Base.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Base.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Infraestructura.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Infraestructura.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Entidades.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Entidades.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Implementacion.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Implementacion.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Conexion.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Conexion.dll.config
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Principal.resources
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Properties.Resources.resources
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.GenerateResource.cache
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.CopyComplete
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.exe
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\X-Commerce.exe.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\X-Commerce.exe
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\X-Commerce.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.IoC.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\EntityFramework.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\EntityFramework.SqlServer.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Core.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Interfaces.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\StructureMap.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Base.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Infraestructura.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Entidades.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Implementacion.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Conexion.dll
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Constantes.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.IoC.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.IoC.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Core.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Core.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Presentacion.Seguridad.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Interfaces.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Interfaces.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\EntityFramework.xml
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\EntityFramework.SqlServer.xml
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Base.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Base.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Infraestructura.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Infraestructura.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Entidades.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Dominio.Entidades.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Implementacion.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Servicio.Implementacion.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Conexion.pdb
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\bin\Debug\Aplicacion.Conexion.dll.config
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csprojAssemblyReference.cache
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Principal.resources
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X_Commerce.Properties.Resources.resources
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.GenerateResource.cache
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.CoreCompileInputs.cache
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.csproj.CopyComplete
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.exe
+D:\Escritorio\Laboratorio 2\backup 24-11\X-Commerce\X-Commerce\obj\Debug\X-Commerce.pdb
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\X-Commerce.exe.config
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\X-Commerce.exe
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\X-Commerce.pdb
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Constantes.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.IoC.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\EntityFramework.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\EntityFramework.SqlServer.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Core.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Seguridad.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Interfaces.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\StructureMap.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Base.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Infraestructura.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Entidades.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Implementacion.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Conexion.dll
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Constantes.pdb
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Constantes.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.IoC.pdb
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.IoC.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Core.pdb
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Core.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Seguridad.pdb
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Seguridad.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Interfaces.pdb
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Interfaces.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\EntityFramework.xml
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\EntityFramework.SqlServer.xml
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Base.pdb
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Base.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Infraestructura.pdb
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Infraestructura.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Entidades.pdb
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Entidades.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Implementacion.pdb
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Implementacion.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Conexion.pdb
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Conexion.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.csprojAssemblyReference.cache
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\obj\Debug\X_Commerce.Principal.resources
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\obj\Debug\X_Commerce.Properties.Resources.resources
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.csproj.GenerateResource.cache
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.csproj.CoreCompileInputs.cache
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.csproj.CopyComplete
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.exe
+D:\Escritorio\Final Lab 2\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.pdb
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\X-Commerce.exe.config
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\X-Commerce.exe
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\X-Commerce.pdb
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Constantes.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.IoC.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\EntityFramework.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\EntityFramework.SqlServer.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Core.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Seguridad.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Interfaces.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\StructureMap.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Base.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Infraestructura.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Entidades.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Implementacion.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Conexion.dll
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Constantes.pdb
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Constantes.dll.config
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.IoC.pdb
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.IoC.dll.config
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Core.pdb
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Core.dll.config
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll.config
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Seguridad.pdb
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Seguridad.dll.config
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Interfaces.pdb
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Interfaces.dll.config
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\EntityFramework.xml
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\EntityFramework.SqlServer.xml
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Base.pdb
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Base.dll.config
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Infraestructura.pdb
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Infraestructura.dll.config
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Entidades.pdb
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Entidades.dll.config
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Implementacion.pdb
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Implementacion.dll.config
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Conexion.pdb
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Conexion.dll.config
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.csprojAssemblyReference.cache
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\obj\Debug\X_Commerce.Principal.resources
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\obj\Debug\X_Commerce.Properties.Resources.resources
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.csproj.GenerateResource.cache
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.csproj.CoreCompileInputs.cache
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.csproj.CopyComplete
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.exe
+D:\Escritorio\Final Lab 2\Respaldo Proyecto Funcionando\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\X-Commerce.exe.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\X-Commerce.exe
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\X-Commerce.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Constantes.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.IoC.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\EntityFramework.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\EntityFramework.SqlServer.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Core.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Seguridad.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Interfaces.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\StructureMap.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Base.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Infraestructura.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Entidades.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Implementacion.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Conexion.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Constantes.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Constantes.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.IoC.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.IoC.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Core.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Core.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.FormularioBase.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.FormularioBase.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Seguridad.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Presentacion.Seguridad.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Interfaces.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Interfaces.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\EntityFramework.xml
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\EntityFramework.SqlServer.xml
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Base.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Base.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Infraestructura.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Infraestructura.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Entidades.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Dominio.Entidades.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Implementacion.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Servicio.Implementacion.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Conexion.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\bin\Debug\Aplicacion.Conexion.dll.config
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\obj\Debug\X_Commerce.Principal.resources
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\obj\Debug\X_Commerce.Properties.Resources.resources
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.csproj.GenerateResource.cache
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.csproj.CoreCompileInputs.cache
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.csproj.CopyComplete
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.exe
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\X-Commerce\obj\Debug\X-Commerce.csproj.AssemblyReference.cache

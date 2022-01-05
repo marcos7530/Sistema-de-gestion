@@ -1,0 +1,179 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{2733D1E4-62BD-4482-9BBC-891E26AFCF53}</ProjectGuid>
+    <OutputType>Library</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Dominio.Entidades</RootNamespace>
+    <AssemblyName>Dominio.Entidades</AssemblyName>
+    <TargetFrameworkVersion>v4.6.2</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+    <Deterministic>true</Deterministic>
+    <TargetFrameworkProfile />
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="EntityFramework, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.dll</HintPath>
+    </Reference>
+    <Reference Include="EntityFramework.SqlServer, Version=6.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089, processorArchitecture=MSIL">
+      <HintPath>..\packages\EntityFramework.6.2.0\lib\net45\EntityFramework.SqlServer.dll</HintPath>
+    </Reference>
+    <Reference Include="System" />
+    <Reference Include="System.ComponentModel.DataAnnotations" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Net.Http" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="Articulo.cs" />
+    <Compile Include="BajaArticulo.cs" />
+    <Compile Include="Banco.cs" />
+    <Compile Include="Caja.cs" />
+    <Compile Include="Cheque.cs" />
+    <Compile Include="Cliente.cs" />
+    <Compile Include="Compra.cs" />
+    <Compile Include="Comprobante.cs" />
+    <Compile Include="ConceptoGasto.cs" />
+    <Compile Include="CondicionIva.cs" />
+    <Compile Include="Configuracion.cs" />
+    <Compile Include="Contador.cs" />
+    <Compile Include="CuentaBancaria.cs" />
+    <Compile Include="CuentaCorriente.cs" />
+    <Compile Include="FormaPagoEfectivo.cs" />
+    <Compile Include="MetaData\ICuentaCorriente.cs" />
+    <Compile Include="MetaData\IFormaPagoEfectivo.cs" />
+    <Compile Include="MovimientoCuentaCorriente.cs" />
+    <Compile Include="DepositoCheque.cs" />
+    <Compile Include="DetalleArticuloCompuesto.cs" />
+    <Compile Include="DetalleCaja.cs" />
+    <Compile Include="DetalleComprobante.cs" />
+    <Compile Include="Empleado.cs" />
+    <Compile Include="Factura.cs" />
+    <Compile Include="FormaPago.cs" />
+    <Compile Include="FormaPagoCheque.cs" />
+    <Compile Include="FormaPagoCtaCte.cs" />
+    <Compile Include="FormaPagoTarjeta.cs" />
+    <Compile Include="Formulario.cs" />
+    <Compile Include="Gasto.cs" />
+    <Compile Include="Iva.cs" />
+    <Compile Include="ListaPrecio.cs" />
+    <Compile Include="Localidad.cs" />
+    <Compile Include="Marca.cs" />
+    <Compile Include="MetaData\IArticulo.cs" />
+    <Compile Include="MetaData\IBajaArticulo.cs" />
+    <Compile Include="MetaData\IBanco.cs" />
+    <Compile Include="MetaData\ICaja.cs" />
+    <Compile Include="MetaData\ICheque.cs" />
+    <Compile Include="MetaData\ICliente.cs" />
+    <Compile Include="MetaData\ICompra.cs" />
+    <Compile Include="MetaData\IComprobante.cs" />
+    <Compile Include="MetaData\IConceptoGasto.cs" />
+    <Compile Include="MetaData\ICondicionIva.cs" />
+    <Compile Include="MetaData\IConfiguracion.cs" />
+    <Compile Include="MetaData\IContador.cs" />
+    <Compile Include="MetaData\ICuentaBancaria.cs" />
+    <Compile Include="MetaData\IMovimientoCuentaCorriente.cs" />
+    <Compile Include="MetaData\IDepositoCheque.cs" />
+    <Compile Include="MetaData\IDetalleArticuloCompuesto.cs" />
+    <Compile Include="MetaData\IDetalleCaja.cs" />
+    <Compile Include="MetaData\IDetalleComprobante.cs" />
+    <Compile Include="MetaData\IEmpleado.cs" />
+    <Compile Include="MetaData\IFactura.cs" />
+    <Compile Include="MetaData\IFormaPago.cs" />
+    <Compile Include="MetaData\IFormaPagoCheque.cs" />
+    <Compile Include="MetaData\IFormaPagoCtaCte.cs" />
+    <Compile Include="MetaData\IFormaPagoTarjeta.cs" />
+    <Compile Include="MetaData\IFormulario.cs" />
+    <Compile Include="MetaData\IGasto.cs" />
+    <Compile Include="MetaData\IIva.cs" />
+    <Compile Include="MetaData\IListaPrecio.cs" />
+    <Compile Include="MetaData\ILocalidad.cs" />
+    <Compile Include="MetaData\IMarca.cs" />
+    <Compile Include="MetaData\IMotivoBaja.cs" />
+    <Compile Include="MetaData\IMovimiento.cs" />
+    <Compile Include="MetaData\INotaCredito.cs" />
+    <Compile Include="MetaData\IPerfil.cs" />
+    <Compile Include="MetaData\IPersona.cs" />
+    <Compile Include="MetaData\IPersonaFisica.cs" />
+    <Compile Include="MetaData\IPersonaJuridica.cs" />
+    <Compile Include="MetaData\IPrecio.cs" />
+    <Compile Include="MetaData\IPresupuesto.cs" />
+    <Compile Include="MetaData\IProveedor.cs" />
+    <Compile Include="MetaData\IProvincia.cs" />
+    <Compile Include="MetaData\IRemito.cs" />
+    <Compile Include="MetaData\IRubro.cs" />
+    <Compile Include="MetaData\ITarjeta.cs" />
+    <Compile Include="MetaData\ITipoFormaPago.cs" />
+    <Compile Include="MetaData\IUnidadMedida.cs" />
+    <Compile Include="MetaData\IUsuario.cs" />
+    <Compile Include="MotivoBaja.cs" />
+    <Compile Include="Movimiento.cs" />
+    <Compile Include="NotaCredito.cs" />
+    <Compile Include="Perfil.cs" />
+    <Compile Include="Persona.cs" />
+    <Compile Include="PersonaFisica.cs" />
+    <Compile Include="PersonaJuridica.cs" />
+    <Compile Include="Precio.cs" />
+    <Compile Include="Presupuesto.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Proveedor.cs" />
+    <Compile Include="Provincia.cs" />
+    <Compile Include="Remito.cs" />
+    <Compile Include="Repositorio\IRepositorioCliente.cs" />
+    <Compile Include="Repositorio\IRepositorioEmpleado.cs" />
+    <Compile Include="Repositorio\IRepositorioFactura.cs" />
+    <Compile Include="Repositorio\IRepositorioFormaPagoCheque.cs" />
+    <Compile Include="Repositorio\IRepositorioFormaPagoCtaCte.cs" />
+    <Compile Include="Repositorio\IRepositorioFormaPagoEfectivo.cs" />
+    <Compile Include="Repositorio\IRepositorioFormaPagoTarjeta.cs" />
+    <Compile Include="Repositorio\IRepositorioNotaCredito.cs" />
+    <Compile Include="Repositorio\IRepositorioPresupuesto.cs" />
+    <Compile Include="Repositorio\IRepositorioProveedor.cs" />
+    <Compile Include="Repositorio\IRepositorioRemito.cs" />
+    <Compile Include="Rubro.cs" />
+    <Compile Include="Tarjeta.cs" />
+    <Compile Include="TipoFormaPago.cs" />
+    <Compile Include="UnidadDeTrabajo\IUnidadDeTrabajo.cs" />
+    <Compile Include="UnidadMedida.cs" />
+    <Compile Include="Usuario.cs" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+    <None Include="packages.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\Aplicacion.Constantes\Aplicacion.Constantes.csproj">
+      <Project>{96AE26F8-7580-4EB3-B828-1AA70137EFE9}</Project>
+      <Name>Aplicacion.Constantes</Name>
+    </ProjectReference>
+    <ProjectReference Include="..\Dominio.Base\Dominio.Base.csproj">
+      <Project>{74359BBD-5737-45C8-AB61-D30AA4218945}</Project>
+      <Name>Dominio.Base</Name>
+    </ProjectReference>
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+</Project>

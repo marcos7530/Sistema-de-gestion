@@ -1,0 +1,54 @@
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.dll
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.pdb
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Librerias\bin\Debug\StructureMap.dll
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csprojAssemblyReference.cache
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csproj.CoreCompileInputs.cache
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csproj.CopyComplete
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.dll
+F:\CodigoFuenteCad\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.pdb
+D:\Codigo Fuente\X-Commerce\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.dll
+D:\Codigo Fuente\X-Commerce\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.pdb
+D:\Codigo Fuente\X-Commerce\Aplicacion.Librerias\bin\Debug\StructureMap.dll
+D:\Codigo Fuente\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csprojAssemblyReference.cache
+D:\Codigo Fuente\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csproj.CoreCompileInputs.cache
+D:\Codigo Fuente\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csproj.CopyComplete
+D:\Codigo Fuente\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.dll
+D:\Codigo Fuente\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Librerias\bin\Debug\StructureMap.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csprojAssemblyReference.cache
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csproj.CopyComplete
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce-10-10a\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Librerias\bin\Debug\StructureMap.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csproj.CopyComplete
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.dll
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.pdb
+D:\UTN\Parcial Laboratorio2\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.pdb
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Librerias\bin\Debug\StructureMap.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csproj.CopyComplete
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.dll
+C:\Users\Marcos\Desktop\backup 24-11\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.pdb
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Librerias\bin\Debug\StructureMap.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csprojAssemblyReference.cache
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csproj.CoreCompileInputs.cache
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csproj.CopyComplete
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.dll
+C:\Users\Marcos\Desktop\Laboratorio 2\backup 24-11\X-Commerce\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Librerias\bin\Debug\Aplicacion.Librerias.pdb
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Librerias\bin\Debug\StructureMap.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csprojAssemblyReference.cache
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csproj.CoreCompileInputs.cache
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.csproj.CopyComplete
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.dll
+D:\Escritorio\Final Lab 2\Proyecto Toqueteado\Proyecto Funcionando\Aplicacion.Librerias\obj\Debug\Aplicacion.Librerias.pdb
